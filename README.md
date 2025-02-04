@@ -1,7 +1,9 @@
 ## Mixture of Demonstrations for In-Context Learning, NeurIPS 2024
 
 
-This repository contains the implmentation of the paper [Mixture of Demonstrations for In-Context Learning]([https://arxiv.org/pdf/2407.02408](https://openreview.net/pdf?id=uqxSLoCw3K)), published in NeurIPS 2024.
+This repository contains the implmentation of the paper [Mixture of Demonstrations for In-Context Learning](https://openreview.net/pdf?id=uqxSLoCw3K), published in NeurIPS 2024. Our code is constructed based on [CEIL](https://github.com/HKUNLP/icl-ceil)
+
+
 
 
 
