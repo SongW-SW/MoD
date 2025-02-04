@@ -4,6 +4,16 @@
 This repository contains the implmentation of the paper [Mixture of Demonstrations for In-Context Learning](https://openreview.net/pdf?id=uqxSLoCw3K), published in NeurIPS 2024. Our code is constructed based on [CEIL](https://github.com/HKUNLP/icl-ceil).
 
 
+## Instruction
+To run the code, specify the task name in ./scripts/run_mod.sh. Then create a folder for output.
+
+> mkdir ./output
+
+Then run the command:
+
+> bash ./scripts/run_mod.sh.
+
+
 
 
 
