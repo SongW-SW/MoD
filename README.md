@@ -11,7 +11,7 @@ To run the code, specify the task name in ./scripts/run_mod.sh. Then create a fo
 
 Then run the command:
 
-> bash ./scripts/run_mod.sh.
+> bash ./scripts/run_mod.sh
 
 
 
