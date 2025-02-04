@@ -1,5 +1,6 @@
 ## Mixture of Demonstrations for In-Context Learning, NeurIPS 2024
 
+![The framework of MoD.](framework.png)
 
 This repository contains the implmentation of the paper [Mixture of Demonstrations for In-Context Learning](https://openreview.net/pdf?id=uqxSLoCw3K), published in NeurIPS 2024. Our code is constructed based on [CEIL](https://github.com/HKUNLP/icl-ceil).
 
